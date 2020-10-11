@@ -6,14 +6,6 @@ target 'RxInputOutput101' do
   use_frameworks!
   pod 'RxSwift'
   pod 'RxCocoa'
-  pod 'Moya/RxSwift'
-  # Pods for RxInputOutput101
-
-  # target 'RxInputOutput101Tests' do
-  #   inherit! :search_paths
-  #   # Pods for testing
-  #   pod 'RxTest'
-  #   pod 'RxNimble/RxTest'
-  # end
-
+  #pod 'Moya/RxSwift'
+ 
 end
